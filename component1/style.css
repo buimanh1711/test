@@ -46,6 +46,10 @@
 
     cursor: pointer;
 }
+.btn:hover{
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.548);
+    color: rgb(235, 227, 227);
+}
 .background{
     position: absolute;
     width: 500px; 
